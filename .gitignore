@@ -1,0 +1,44 @@
+# Ignore wp-content except for custom themes and plugins
+!/wordpress/wp-content/plugins/my-custom-plugin/
+!/wordpress/wp-content/themes/my-custom-theme/
+
+# Core Files
+/wordpress/wp-admin/
+/wordpress/wp-content/index.php
+/wordpress/wp-content/languages
+/wordpress/wp-includes/
+/wordpress/index.php
+/wordpress/license.txt
+/wordpress/readme.html
+/wordpress/wp-*.php
+/wordpress/xmlrpc.php
+
+# Themes
+/wordpress/wp-content/themes/index.php
+/wordpress/wp-content/themes/
+/wordpress/wp-content/themes/twenty*/
+
+# Plugins
+/wordpress/wp-content/plugins/index.php
+/wordpress/wp-content/plugins/hello.php
+/wordpress/wp-content/plugins/
+/wordpress/wp-content/mu-plugins/
+
+# Uploads
+/wordpress/wp-content/uploads/
+
+# Ignore configuration files with sensitive data
+/wordpress/wp-config.php
+
+# Htaccess
+/wordpress/.htaccess
+
+# Structure
+/database/
+
+# Ignore backup and log files
+.DS_Store
+*.log
+*.sql
+*.tar.gz
+*.zip
