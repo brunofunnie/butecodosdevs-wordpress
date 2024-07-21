@@ -5,6 +5,7 @@
 # Core Files
 /wordpress/wp-admin/
 /wordpress/wp-content/index.php
+/wordpress/wp-content/cache
 /wordpress/wp-content/languages
 /wordpress/wp-includes/
 /wordpress/index.php

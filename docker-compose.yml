@@ -1,5 +1,5 @@
 services:
-  wordpress:
+  nginx:
     container_name: butecodosdevs_nginx
     image: nginx:latest
     ports:
