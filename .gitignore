@@ -4,9 +4,10 @@
 
 # Core Files
 /wordpress/wp-admin/
-/wordpress/wp-content/index.php
-/wordpress/wp-content/cache
-/wordpress/wp-content/languages
+# /wordpress/wp-content/index.php
+# /wordpress/wp-content/cache
+# /wordpress/wp-content/languages
+/wordpress/wp-content/
 /wordpress/wp-includes/
 /wordpress/index.php
 /wordpress/license.txt
@@ -14,16 +15,16 @@
 /wordpress/wp-*.php
 /wordpress/xmlrpc.php
 
-# Themes
-/wordpress/wp-content/themes/index.php
-/wordpress/wp-content/themes/
-/wordpress/wp-content/themes/twenty*/
+# # Themes
+# /wordpress/wp-content/themes/index.php
+# /wordpress/wp-content/themes/
+# /wordpress/wp-content/themes/twenty*/
 
-# Plugins
-/wordpress/wp-content/plugins/index.php
-/wordpress/wp-content/plugins/hello.php
-/wordpress/wp-content/plugins/
-/wordpress/wp-content/mu-plugins/
+# # Plugins
+# /wordpress/wp-content/plugins/index.php
+# /wordpress/wp-content/plugins/hello.php
+# /wordpress/wp-content/plugins/
+# /wordpress/wp-content/mu-plugins/
 
 # Uploads
 /wordpress/wp-content/uploads/

@@ -12,6 +12,7 @@
 - Nginx
 - PHP 8.3.9
 - MySQL 8
+- PHPMyAdmin
 
 ## Defaults
 
